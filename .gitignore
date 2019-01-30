@@ -1,0 +1,6 @@
+**/log.txt
+**/*.log
+**/*~
+**/*.swp
+**/.idea
+**/.vscode
